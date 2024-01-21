@@ -1,2 +1,4 @@
 # DMDD_Farmer_Portal
-DMDD Farmer Portal Project
+The Farmer's Portal project was a initiative focused on empowering farmers and revolutionizing agricultural commerce. Using agile methodology and SQL, we envisioned and designed an innovative platform that allowed farmers to directly sell their crops to consumers. This not only streamlined the supply chain but also resulted in a commendable 20% reduction in consumer expenses.
+
+Additionally, we implemented Tableau dashboards for in-depth analysis of annual sales reports. These dashboards not only provided valuable insights into sales trends but also facilitated data-driven recommendations to enhance farmers' revenue by an impressive 15%. The Farmer's Portal project stands as a testament to our commitment to innovation, efficiency, and creating positive impacts in the agricultural sector.
